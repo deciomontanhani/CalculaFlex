@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "265257339744",
+    "firebase_url": "https://calcula-flex.firebaseio.com",
+    "project_id": "calcula-flex",
+    "storage_bucket": "calcula-flex.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:265257339744:android:1e59df4f781c62e9af6c05",
+        "android_client_info": {
+          "package_name": "br.com.deciomontanhani.calculaflex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "265257339744-pg1r6rn6k8af469vpbejiju6m7f5ggi2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.deciomontanhani.calculaflex",
+            "certificate_hash": "7205bb0209ca4b3b8bd577a27dfb673c80b952ed"
+          }
+        },
+        {
+          "client_id": "265257339744-24sm7oh4p8d9p3fucos79oqe25bpa40e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDF6uwZN8Yqsg0YY-BK2HbUowICyYGeW1g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "265257339744-24sm7oh4p8d9p3fucos79oqe25bpa40e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
